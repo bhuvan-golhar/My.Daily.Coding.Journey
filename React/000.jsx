@@ -1,0 +1,6 @@
+// React function: Hello World
+
+function App() {
+    return <>Hello World</>;
+}
+export default App;
