@@ -1,0 +1,7 @@
+// C program: Using space
+
+#include<stdio.h>
+int main()
+{
+	printf("Hey,\t how are you?");
+}
