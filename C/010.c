@@ -1,0 +1,12 @@
+// C program: Run-time multiplication
+
+#include<stdio.h>
+int main()
+{
+	int a,b;
+	printf("Enter the value of a = "); 
+	scanf("%d",&a);
+  printf("Enter the value of b = "); 
+	scanf("%d",&b);
+	printf("Multiplication = %d x %d = %d",a,b,a*b);
+}
