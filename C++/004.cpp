@@ -1,0 +1,11 @@
+// C++ program: Compile-time subtraction
+
+#include<iostream>
+using namespace std;
+int main()
+{
+	int a,b;
+	a=25;
+	b=15;
+	cout<<"a = "<<a<<endl<<"b = "<<b<<endl<<"subtract = "<<a-b;
+}
