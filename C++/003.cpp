@@ -1,0 +1,11 @@
+// C++ program: Compile-time addition
+
+#include<iostream>
+using namespace std;
+int main()
+{
+	int a,b;
+	a=15;
+	b=25;
+	cout<<"a = "<<a<<endl<<"b = "<<b<<endl<<"sum = "<<a+b;
+}
