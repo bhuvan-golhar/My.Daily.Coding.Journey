@@ -1,0 +1,28 @@
+<!-- HTML file: Font type -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Font type</title>
+    <link rel="stylesheet" href="002.css">
+</head>
+<body>
+    <h3>Earth</h3>
+    <p>There are total eight planets in our solar system.</p>
+</body>
+</html>
+
+/* CSS file: Font type */
+
+body {
+    background-color: azure;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3 {
+    color: green;
+}
+p {
+    color: blue;
+}
