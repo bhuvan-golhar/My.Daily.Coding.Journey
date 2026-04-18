@@ -1,0 +1,23 @@
+<!-- HTML file: Color property -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Color property</title>
+    <link rel="stylesheet" href="001.css">
+</head>
+<body>
+    <p>There are total eight planets in our solar system.</p>
+</body>
+</html>
+
+/* CSS file: Color property */
+
+body {
+    background-color: white;
+}
+p {
+    color: black;
+}
