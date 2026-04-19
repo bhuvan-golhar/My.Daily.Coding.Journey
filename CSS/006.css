@@ -1,0 +1,54 @@
+<!-- HTML file: Font variant -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Font variant</title>
+    <link rel="stylesheet" href="006.css">
+</head>
+<body>
+    <h2>Earth</h2>
+    <p>There are total eight planets in our solar system.</p>
+    <div>
+        The Solar System is a vast collection of celestial bodies orbiting the Sun.<br>
+        It consists of the Sun, eight planets, their moons, and countless asteroids<br> 
+        and comets. The Solar System formed about 4.6 billion years ago from a giant<br> 
+        cloud of gas and dust called the solar nebula. Beyond Neptune lies the Kuiper<br> 
+        Belt, home to icy objects and dwarf planets like Pluto. The Solar System extends<br> 
+        even farther into the Oort Cloud, a distant region of comets and frozen bodies<br> 
+        that marks its outer boundary.
+    </div>
+</body>
+</html>
+
+/* CSS file: Font variant */
+
+body {
+    background-color: whitesmoke;
+}
+div {
+    color: yellow;
+    font-size: 14px;
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+    font-variant: small-caps;
+}
+h2 {
+    color: red;
+    font-size: 14px;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-variant: normal;
+}
+p {
+    color: blue;
+    font-size: 14px;
+    font-style: normal;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-variant: normal;
+}
