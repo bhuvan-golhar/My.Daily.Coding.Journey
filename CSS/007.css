@@ -1,0 +1,51 @@
+<!-- HTML file: Height of an element -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Height of an element</title>
+    <link rel="stylesheet" href="007.css">
+</head>
+<body>
+    <div>
+        <h3>Earth</h3>
+        <p>There are total eight planets in our solar system.</p>
+        <p>
+            The Solar System is a vast collection of celestial bodies orbiting the Sun.<br>
+            It consists of the Sun, eight planets, their moons, and countless asteroids<br> 
+            and comets. The Solar System formed about 4.6 billion years ago from a giant<br> 
+            cloud of gas and dust called the solar nebula. Beyond Neptune lies the Kuiper<br> 
+            Belt, home to icy objects and dwarf planets like Pluto. The Solar System extends<br> 
+            even farther into the Oort Cloud, a distant region of comets and frozen bodies<br> 
+            that marks its outer boundary.
+        </p>
+    </div>    
+</body>
+</html>
+
+/* CSS file: Height of an element */
+
+body {
+    background-color: whitesmoke;
+}
+div {
+    height: 200px;
+    background-color: brown;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h3 {
+    color: blue;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+}
+p {
+    color: yellow;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+}
